@@ -1,5 +1,5 @@
 # Predicting-Orange-Stock-Price-Using-an-LSTM-Deep-Learning-Model
-Orange Stock Price Prediction Using an LSTM Deep Learning Model
+Orange Stock Price Prediction Using an LSTM Deep Learning Model.
 This project showcases my ability to apply deep learning techniques to a classic problem in financial markets: stock price prediction. Using a Long Short-Term Memory (LSTM) neural network, a type of model specifically designed for sequential data, I developed a robust forecasting solution for the stock price of Orange S.A. (ORA.PA). This project is a demonstration of my skills in data science, time series analysis, and practical machine learning model development.
 
 Project Overview
